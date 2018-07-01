@@ -1,1 +1,3 @@
-// declare your functions here...
+$('p')
+$('img:last')
+$('#baby-ninja')
